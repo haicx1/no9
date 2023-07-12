@@ -1,0 +1,13 @@
+line 0 - The next line is line 1 (f1)
+B,   C,   D,    E,    F,    G,    X,    H1,   Y,    1H,  C,  A
+25,  16,  23,   36,   24,   15,   24,   56,  105,   40,  5,  16
+line 3 - The next line is line 4 (f2)
+B,   C,   D,    E,    F,    G,    X,    H1,   Y,    1H,  C,  A
+25,  16,  23,   36,   24,   15,   24,   56,  105,   40,  5,  16
+line 6 - The next line is line 7 (f3)
+A,   B,  C,      D,   E,    F,    G,    X,   Y,   Z,    AB,  C
+29,  17,  23,   36,   31,   59,   13,   30,  34,  41,   10,  70
+line 9 - The next line is line 10 (f4)
+A,   B,  C,      D,   E,    F,    G,    X,   Y,    AB,   1D,   2E 
+28,  17,  23,   36,   31,   59,   13,   30,  34,   10,   19,   25
+
